@@ -15,17 +15,14 @@ var myChart = new Chart(pie, {
             {
                 data: data,
                 borderColor: ['rgba(75, 192, 192, 1)', 'rgba(192, 0, 0, 1)'],
-                backgroundColor: ['rgba(75, 192, 192, 0.2)','rgba(192, 0, 0, 0.2)'],
+                backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(192, 0, 0, 0.2)'],
             }
         ]
     },
     options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true,
-                }
-            }]
-        },
+        title: {
+            display: true,
+            text: "Colors election"
+        }
     }
 });
