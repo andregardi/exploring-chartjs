@@ -8,10 +8,15 @@
     <title>Exploring Chart.js</title>
 </head>
 <style>
+    body{
+        text-align: center;
+    }
     .container {
         width: 50%;
         height: 50%;
         position: relative;
+        display: -webkit-inline-box;
+        margin-bottom: 100px;
     }
     #loadingMessage{
         position: absolute;
@@ -31,10 +36,12 @@
         <canvas id="myChart"></canvas>
     </div>
 
+
     <h1>Pie Chart</h1>    
     <div class="container">        
         <canvas id="pieChart"></canvas>
     </div>
+
 
     <h1>Mix Chart</h1>    
     <div class="container">        
