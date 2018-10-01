@@ -1,0 +1,31 @@
+{
+    "chartData": {
+        "labels": [
+            "sunday",
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday"
+        ],
+        "thisWeek": [
+            20000,
+            14000,
+            12000,
+            15000,
+            18000,
+            19000,
+            22000
+        ],
+        "lastWeek": [
+            19000,
+            10000,
+            14000,
+            14000,
+            15000,
+            22000,
+            24000
+        ]
+    }
+}
