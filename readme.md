@@ -1,5 +1,5 @@
 # Exploring Chart.js
-Repository created for the Exploring Chart.js article in Medium.
+Repository created for the Exploring Chart.js article in JavaScript In Plain English.
 
 This project consists of a series of examples using Chart.js to demonstrate some of its customization options.
 
